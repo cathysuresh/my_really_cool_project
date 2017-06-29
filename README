@@ -1,3 +1,7 @@
 This is my totally cool project
 
+<<<<<<< HEAD
 This project is to help me practice pushing code to github
+=======
+This project is to help Treehouse students practice pushing code to github
+>>>>>>> foo_feature
